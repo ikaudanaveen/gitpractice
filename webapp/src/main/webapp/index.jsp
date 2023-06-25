@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>I am B and making changes for commit </h1>
+    <h1>I am making GUI changes</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
